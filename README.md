@@ -9,7 +9,6 @@
 - [STM32F103 Test board](#stm32f103-test-board)
 
 ## About 
-This repo contains the PCB files designed by [@Vaaarad07](https://github.com/Vaaarad07).
 All of the designs are completely produced in KiCad 6, and each project directory contains the respective  KiCad schematic and layout files. All of the PCB projects are manufactured and tested for their respective functionalities.
 I am open for any kind of feedback, suggestion or discussion.
 
